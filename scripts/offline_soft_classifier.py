@@ -36,7 +36,7 @@ class FileLock:
 ###############################################################################
 # CONFIGURATION
 ###############################################################################
-MODEL_DIR = os.path.join(os.path.dirname(__file__), "..", "models", "AnonymousNDSSSubmitter12345--Classifier_30k")
+MODEL_DIR = os.path.join(os.path.dirname(__file__), "..", "models", "classifier_30k")
 RESULTS_BASE_DIR = os.path.join(os.path.dirname(__file__), "..", "results")
 
 # map model output IDs to label strings
