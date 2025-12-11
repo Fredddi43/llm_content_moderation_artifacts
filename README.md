@@ -15,7 +15,7 @@ This paper evaluates the content moderation applied by LLMs to problematic queri
 1. **Corpus (Artifact #1)**: 1,113 problematic statements across 5 categories, available in English and 12 other languages
 2. **Testing Scripts (Artifact #2)**: Prompting and evaluation scripts (this directory)
 3. **Results (Artifact #3)**: Over 700,000 LLM responses in CSV format
-4. **DeBERTa Classifier (Artifact #4)**: Custom classifier to evaluate moderation strength. This is large and therefore hosted on huggingface: [https://huggingface.co/AnonymousNDSSSubmitter12345/Classifier_30k/tree/main](https://huggingface.co/Tensorride/Classifier_30k)
+4. **DeBERTa Classifier (Artifact #4)**: Custom classifier to evaluate moderation strength. This is large and therefore hosted on huggingface: [https://huggingface.co/Tensorride/Classifier_30k](https://huggingface.co/Tensorride/Classifier_30k)
 
 ### Moderation Classification
 
