@@ -4,7 +4,7 @@
 
 **AUTHOR POSITIONALITY:** All authors and other persons involved as part of the project do not endorse or specify likeness to any of the statements found in this corpus. They do not represent any of the views or opinions held by any persons involved with the project.
 
-**CONTENT REDACTION:** Certain statements are redacted due to their risk to people contacted during the project and sensitive nature, however if future researchers want access to the unredacted dataset they should contact the authors.
+**CONTENT REDACTION:** A few statements are redacted due to their risk to people contacted during the project and sensitive nature, however if future researchers want access to the unredacted dataset they should contact the authors.
 
 ## Overview
 
